@@ -28,9 +28,10 @@ Este es un proyecto de ejemplo para **gestión de pedidos**, desarrollado con **
 
 1. Clonar el repositorio:
 
-```bash
 git clone https://github.com/rodTrejo/pedidos.git
 cd pedidos
+
+---
 
 ## 🌐 Documentación API (Swagger)
 
