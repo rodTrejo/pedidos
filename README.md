@@ -32,6 +32,14 @@ Este es un proyecto de ejemplo para **gestión de pedidos**, desarrollado con **
 git clone https://github.com/rodTrejo/pedidos.git
 cd pedidos
 
+## 🌐 Documentación API (Swagger)
+
+La aplicación incluye documentación Swagger para los endpoints REST.
+
+- URL de Swagger UI: [`http://localhost:8080/swagger-ui.html`](http://localhost:8080/swagger-ui.html)
+
+![Swagger UI](docs/swagger.png)
+
 Ejecutar la aplicación:
 
 ./mvnw spring-boot:run
